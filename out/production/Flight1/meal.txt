@@ -1,0 +1,6 @@
+meal number seat_No passenger_name
+standard_1 1 A1 lkf
+standard_1 1 A2 lkf
+standard_2 1 B4 lhs
+standard_1 1 A3 zzx
+standard_2 1 B3 xsq

@@ -1,0 +1,3 @@
+QM101 ZZX CHECK-IN   A3 standard_1 0
+QM101 LKF CHECK-IN   A3 standrad_1 0
+QM101 LKF CHECK-OUT  A3 standrad_1 1
